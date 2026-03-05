@@ -58,4 +58,8 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/02Harshit/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/02Harshit/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 <!---LeetCode Topics End-->
