@@ -25,6 +25,7 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 | [0543-diameter-of-binary-tree](https://github.com/02Harshit/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/02Harshit/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/02Harshit/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2236-root-equals-sum-of-children](https://github.com/02Harshit/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 | [0543-diameter-of-binary-tree](https://github.com/02Harshit/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/02Harshit/Leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/02Harshit/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2236-root-equals-sum-of-children](https://github.com/02Harshit/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
