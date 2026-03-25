@@ -86,14 +86,20 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/02Harshit/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/02Harshit/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/02Harshit/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/02Harshit/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/02Harshit/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/02Harshit/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/02Harshit/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
