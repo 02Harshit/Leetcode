@@ -77,6 +77,7 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/02Harshit/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/02Harshit/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/02Harshit/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/02Harshit/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
