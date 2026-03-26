@@ -4,10 +4,14 @@ class Solution {
         int ans[] = new int[n];
          
         //filling the ans[i] with the products of elements before it (later will so for elements after it i.e. suffix)
-        ans[0] = nums[0];
+        
         
         int curr = 1;
-        for(int i=1; i<n; i++) {
+        for(int i=0; i<n; i++) {
+            if (i == 0) {
+                ans[i] = curr;
+                continue;
+            }
             curr = curr * nums[i-1];
             ans[i] = curr;
         }
