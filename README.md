@@ -79,6 +79,7 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 | ------- | ------- |
 | [0001-two-sum](https://github.com/02Harshit/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/02Harshit/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/02Harshit/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/02Harshit/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -106,4 +107,8 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/02Harshit/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/02Harshit/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
