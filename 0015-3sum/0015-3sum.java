@@ -8,7 +8,7 @@ class Solution {
             int k = n-1;
             if (i>0 && nums[i] == nums[i-1]) continue;
             while (j < k) {
-                if (nums[j]+nums[k] == (-1*nums[i])) {
+                if (nums[j]+nums[k]+nums[i] == 0) {
                     ArrayList<Integer> list = new ArrayList<>();
                     list.add(nums[i]);
                     list.add(nums[j]);
