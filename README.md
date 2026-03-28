@@ -78,6 +78,7 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/02Harshit/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/02Harshit/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/02Harshit/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/02Harshit/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/02Harshit/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -116,5 +117,10 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/02Harshit/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/02Harshit/Leetcode/tree/main/0015-3sum/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/02Harshit/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
