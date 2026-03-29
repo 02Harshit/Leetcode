@@ -6,6 +6,7 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/02Harshit/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/02Harshit/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/02Harshit/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Tree
@@ -94,6 +95,7 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/02Harshit/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/02Harshit/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/02Harshit/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/02Harshit/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Hash Table
