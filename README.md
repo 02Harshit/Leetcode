@@ -73,6 +73,7 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/02Harshit/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/02Harshit/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 | [0011-container-with-most-water](https://github.com/02Harshit/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/02Harshit/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/02Harshit/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/02Harshit/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/02Harshit/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/02Harshit/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
@@ -123,4 +125,8 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/02Harshit/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/02Harshit/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
