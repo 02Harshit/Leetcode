@@ -86,6 +86,7 @@ Collections of all the solutions to the leetcode problems i solve (2026 onwards)
 | [0049-group-anagrams](https://github.com/02Harshit/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/02Harshit/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/02Harshit/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/02Harshit/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/02Harshit/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/02Harshit/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/02Harshit/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
